@@ -1,0 +1,73 @@
+*{
+margin: 0;
+padding: 0;
+font-family:cursive;
+}
+
+/*https://www.w3schools.com/css/css3_gradients.asp  gradients on background images*/
+header {
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../Images/HealthyBodyHealthyMind.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul
+{
+    float:right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li{
+    display: inline-block;
+    }
+
+ul li a{
+    text-decoration:none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+ul li.active a{
+    background-color: #fff;
+    color:#000000;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+.title h1{
+    color: #fff;
+    font-size: 70px;
+         
+}
+
+/*For help with button hovering this tutorial was used - https://www.youtube.com/watch?v=MLfAW55_4cY*/
+.button {
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+.btn {
+    border: 1px solid #fff;
+    padding:10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: #000;
+}

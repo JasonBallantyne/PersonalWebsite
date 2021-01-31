@@ -1,0 +1,13 @@
+Healthy Body, Healthy Mind Read Me:
+
+1."Links to both your own pages and external webpages." - (Internal) On the homepage, 5 clickable links to internal text pages in the middle. At the top right, a clickable home, gallery, facebook and about page.(External) - A facebook page link at the top right of every page. QR Code link on nutrition.html page. Embed youtube video on motivation.html page.
+2. "A navigation bar" - Navigation bar at the top right of every page. 5 Clickable links in middle of homepage.
+3. "At least one table used in an appropriate manner" - Table used on nutrition.html page.
+4." At least one list (ordered or unordered)" - Either an ordered or unordered list used on all 8 html pages. Both used at least once throughout.
+5."At least one local or embedded video" - Embed youtube video on motivation.html page.
+6. "At least four CSS3 and four HTML5 specific elements" - Examples of some elements I used were: CSS3: border-radius,text-decoration-color,text-overflow, background-color,float,margin,margin-bottom, margin-top, text-align. HTML: url, <a>, <button>, <iframe>, <img>, <th>, <ul>, <li>, <ol>, <td>. Along with many others.
+7. "Make use of the CSS positional properties (e.g. position, float)" - Position and Float were used on every css sheet, as I used position: absolute for the title and float: left or right were generally used for positioning an image or text.
+8. "Make use of both inline and block elements" - Inline block was used on every css page for the navigation bar at the top right.
+
+
+d) "Describe how you have explored additional features of HTML and CSS." - Getting a solid homepage was the most difficult part of this. After getting a basic image and overlaying it with a title, the title was not clearly visable. Using w3schools, I learned about using a linear gradient in the background image and make the title stand out more. This worked perfectly. For the navigation bar, I used buttons following w3schools again for this, and used that on each of the pages. Various styling of the buttons was a lot of trial and error. w3schools was my main source for a lot of the information and is where I found information on tables also. While doing validity checks, there were some errors that needed correcting, and stackoverflow for these errors was also very useful. A combination of w3schools, stackoverflow, lecture notes and what we had already learned was used for this website.        
